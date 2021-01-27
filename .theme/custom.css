@@ -1,4 +1,4 @@
-/* replace mainsail logo */
+/* replace mainsail logo
 #nav-header img:first-child {
   display: block;
   -moz-box-sizing: border-box;
@@ -7,7 +7,7 @@
   width: 40px;
   height: 40px;
   padding-left: 40px;
-}
+}*/
 
 /* hide the canvasjs.com credit link */
 .canvasjs-chart-credit {
