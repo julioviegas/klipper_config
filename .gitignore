@@ -1,3 +1,5 @@
+!printer.cfg
+printer-*.cfg
 klippy.log
 moonraker.log
 .fluidd.json
