@@ -26,6 +26,7 @@ cors_domains:
 [history]
 
 [update_manager]
+enable_repo_debug: True
 refresh_interval: 24
 
 [update_manager client mainsail]
